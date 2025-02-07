@@ -14,4 +14,3 @@ I’m currently working on a Data Science portfolio for the course, Introduction
 
 ## Contact Links
 - **[LinkedIn](https://www.linkedin.com/in/sophia-kunisaki/)**
-- **Email**: skunisak@nd.edu
