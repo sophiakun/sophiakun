@@ -13,5 +13,5 @@ I’m currently working on a Data Science portfolio for the course, Introduction
 - **Data Visualization Tools**: Excel
 
 ## Contact Links
-- **[LinkedIn]**(https://www.linkedin.com/in/sophia-kunisaki/)
+- **[LinkedIn](https://www.linkedin.com/in/sophia-kunisaki/)**
 - **Email**: skunisak@nd.edu
