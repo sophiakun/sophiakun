@@ -1,5 +1,5 @@
 # Welcome to My Page!
-## Hi, I’m Sophia Kunisaki
+## Hi, I’m Sophia Kunisaki 😊
 
 I'm a senior at the University of Notre Dame, graduating in May 2025 with a B.A. in Economics and with minors in Real Estate and Data Science. I enjoy running, yoga, and baking! I'm moving to Washington D.C. post-graduation to work in real estate capital markets.
 
@@ -25,7 +25,7 @@ I'm a senior at the University of Notre Dame, graduating in May 2025 with a B.A.
 
 - [LinkedIn](https://www.linkedin.com/in/sophia-kunisaki/)
 
-## Badges & GitHub Stats
+## GitHub Stats
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)  
 ![Top Language](https://img.shields.io/github/languages/top/sophiakun/Kunisaki-Data-Science-Portfolio)
