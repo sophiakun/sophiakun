@@ -1,4 +1,5 @@
-# 👋 Hi, I’m Sophia Kunisaki
+# Welcome to My Page!
+## Hi, I’m Sophia Kunisaki
 
 I'm a senior at the University of Notre Dame, graduating in May 2025 with a B.A. in Economics and with minors in Real Estate and Data Science. I enjoy running, yoga, and baking! I'm moving to Washington D.C. post-graduation to work in real estate capital markets.
 
