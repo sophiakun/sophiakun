@@ -22,7 +22,7 @@ I'm a senior at the University of Notre Dame, graduating in May 2025 with a B.A.
 
 ## Contact Me
 
-- 💼 **[LinkedIn](https://www.linkedin.com/in/sophia-kunisaki/)**
+- [LinkedIn](https://www.linkedin.com/in/sophia-kunisaki/)
 
 ## Badges & GitHub Stats
 
