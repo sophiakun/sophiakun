@@ -5,7 +5,7 @@ I'm a senior at the University of Notre Dame, graduating in May 2025 with a B.A.
 
 ## Skills 
 
-- **Languages & Tools**: Python, R, SQL, Pandas, Scikit-learn, Streamlit, Matplotlib, Seaborn, Git
+- **Languages & Tools**: Python, R, STATA, Pandas, Scikit-learn, Streamlit, Matplotlib, Seaborn, Git
 - **Skills**:
   - Data cleaning, transformation, and analysis
   - Supervised & unsupervised machine learning
