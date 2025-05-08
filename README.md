@@ -1,7 +1,13 @@
 # Welcome to My Page!
 ## Hi, I’m Sophia Kunisaki 👋
 
-I'm a senior at the University of Notre Dame, graduating in May 2025 with a B.A. in Economics and with minors in Real Estate and Data Science. I enjoy running, yoga, and baking! I'm moving to Washington D.C. post-graduation to work in real estate capital markets.
+I'm a senior at the University of Notre Dame, graduating in May 2025 with a B.A. in Economics and with minors in Real Estate and Data Science. I enjoy running, yoga, and baking!
+
+I have work experience in the Real Estate industry and the tax industry, and I'm always trying to learn more about how data and technology is affecting these industries and the world around me. After graduation, I'm moving to Washington D.C. to work in real estate capital markets.
+
+## Contact Me
+
+- [LinkedIn](https://www.linkedin.com/in/sophia-kunisaki/)
 
 ## Technical Skills 
 
@@ -20,10 +26,6 @@ I'm a senior at the University of Notre Dame, graduating in May 2025 with a B.A.
 - [⚙️ Supervised Machine Learning Explorer](https://github.com/sophiakun/Kunisaki-Data-Science-Portfolio/tree/main/MLStreamlitApp)  
 
 - [🔍 Unsupervised Machine Learning Explorer](https://github.com/sophiakun/Kunisaki-Data-Science-Portfolio/tree/main/MLUnsupervisedApp)  
-
-## Contact Me
-
-- [LinkedIn](https://www.linkedin.com/in/sophia-kunisaki/)
 
 ## GitHub Stats
 
