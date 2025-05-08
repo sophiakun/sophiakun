@@ -3,7 +3,7 @@
 
 I'm a senior at the University of Notre Dame, graduating in May 2025 with a B.A. in Economics and with minors in Real Estate and Data Science. I enjoy running, yoga, and baking!
 
-I have work experience in the Real Estate industry and the tax industry, and I'm always trying to learn more about how data and technology is affecting these industries and the world around me. After graduation, I'm moving to Washington D.C. to work in real estate capital markets.
+I have work experience in the Real Estate industry and the Tax industry, and I am always trying to learn more about how data and technology is impacting these industries and the world around me. After graduation, I'm moving to Washington D.C. to work in real estate capital markets.
 
 ## Contact Me
 
